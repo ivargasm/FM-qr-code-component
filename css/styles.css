@@ -37,7 +37,7 @@ body{
   width: 25%;
   background-color: var(--clr-white);
   border-radius: 20px;
-  box-shadow: 0 0 20px var(--clr-Grayish-blue);
+  box-shadow: 0px 0 30px rgba(30, 67, 86, 0.08);
   padding: 1.5em;
 }
 
